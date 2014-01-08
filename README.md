@@ -10,9 +10,13 @@ Instruction: for django project and record all the steps experienced in django l
 ===============
 Project: zend
 
-Apps: polls,blog,....
+Apps: polls,....
 
-date: Jan 1, 2014
+Date: Jan 1, 2014
+
+======
+References: More details please refer to [http://docs.djangoproject.com][src1]
+[src1]:http://docs.djangoproject.com
 
 
 
